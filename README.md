@@ -1,6 +1,6 @@
 # Notes Repository
 
-Welcome to the **Notes Repository**! This repository contains various notes on different topics, including programming, engineering, and more.
+This repository contains various notes on different topics, including programming, engineering, and more.
 
 ## 📁 Structure
 The repository is organized into directories based on topics. Each topic contains markdown files (`.md`) with detailed notes.
@@ -12,16 +12,16 @@ The repository is organized into directories based on topics. Each topic contain
 │   ├── lua-basics.md
 │   ├── python-advanced.md
 │── engineering
-│   ├── textile-machinery.md
-│   ├── spare-parts-guide.md
+│   ├── 
+│   ├── 
 │── miscellaneous
-│   ├── productivity-tips.md
+│   ├── 
 ```
 
 ## 🚀 Getting Started
 To clone this repository, use:
 ```sh
-git clone https://github.com/your-username/notes-repo.git
+git clone https://github.com/lxrdxe7o/Notes.git
 ```
 
 ## ✍️ Contributing
@@ -38,4 +38,4 @@ git clone https://github.com/your-username/notes-repo.git
 This repository is licensed under the **MIT License**.
 
 ## 📞 Contact
-For any inquiries, reach out via [your-email@example.com](mailto:your-email@example.com).
+For any inquiries, reach out via [ishrak7106@gmail.com](mailto:your-email@example.com).
