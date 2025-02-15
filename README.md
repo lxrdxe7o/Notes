@@ -9,8 +9,8 @@ The repository is organized into directories based on topics. Each topic contain
 /notes-repo
 │── README.md
 │── programming
-│   ├── lua-basics.md
-│   ├── python-advanced.md
+│   ├── Java
+│   ├── 
 │── engineering
 │   ├── 
 │   ├── 
