@@ -281,5 +281,4 @@ Title: The Alchemist, Author: Paulo Coelho, Available: true
 ✅ **Encapsulation** – Each class hides its data and exposes behavior through methods.  
 ✅ **Objects & Interactions** – `Member` interacts with `Book` and `Library`.  
 ✅ **List Storage** – The library uses `ArrayList<Book>` to manage books.  
-✅ **Real-World Simulation** – Simulates book borrowing and returning.  
 
